@@ -12,7 +12,7 @@ const overFolow = (content, length) => {
     return content;
 }
 const renderProducts = (data, element) => {
-    if (data) {
+    if (data.length > 0) {
         const contentHTML = data.reduce((content, item) => {
             const discount = item.price * ((100 - item.promotion) / 100);
             content += `<div class="products__item">
@@ -130,7 +130,7 @@ const renderShoppingCart = () => {
 }
 
 const main = async () => {
-    const post = await fetch("https://nvbluutru.github.io/Eproject_Group01/js/data/data.json");
+    const post = await fetch("js/data/data.json");
     const data = await post.json();
     renderProducts(data.products, getEle("#products"));
     productsFlashSale(data.products);
