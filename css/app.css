@@ -442,6 +442,8 @@ body.white {
   background-color: white;
   z-index: -1;
   border-radius: 15px;
+  max-height: 500px;
+  overflow-y: auto;
 }
 .header__search--item {
   display: flex;
