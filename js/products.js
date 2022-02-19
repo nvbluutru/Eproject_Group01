@@ -1,10 +1,4 @@
 
-const getEle = (selector) => {
-    return document.querySelector(selector);
-}
-const fomatVnd = (price) => {
-    return price.toLocaleString('vi', { style: 'currency', currency: 'VND' });
-}
 const overFolow = (content, length) => {
     if (content.length > length) {
         content = content.substring(0, length) + "...";
@@ -86,51 +80,9 @@ const renderSearch = (event, data) => {
         printSeach.innerHTML = "";
     }
 }
-const countOrder = () => {
-    let length = "";
-    if (localStorage.getItem("shopping-cart")) {
-        length = JSON.parse(localStorage.getItem("shopping-cart")).length
-    }
-    getEle(".header__shopping--count").innerHTML = length;
-}
-let arrId = [];
-if (localStorage.getItem("shopping-cart")) {
-    arrId = JSON.parse(localStorage.getItem("shopping-cart"))
-}
-const setLocalStorage = (arr) => {
-    localStorage.setItem("shopping-cart", JSON.stringify(arr));
-}
-const addShoppingCart = (event, data) => {
-    const idProduct = event.target.parentElement.dataset.id;
-    const findID = data.find(item => item.id == idProduct);
-    const status = localStorage.getItem("shopping-cart");
-    if (findID) {
-        const newItem = { id: findID.id, quantity: 1 };
-        if (!status || status == "undefined") {
-            arrId.push(newItem);
-            setLocalStorage(arrId);
-        } else {
-            let statusId = arrId.findIndex(item => item.id == idProduct);
-            if (statusId != -1) {
-                arrId[statusId].quantity++;
-                setLocalStorage(arrId);
-            } else {
-                arrId.push(newItem);
-                setLocalStorage(arrId);
-            }
-        }
-    } else {
-        console.log("lỗi không tìm thấy id trên hệ thống");
-    }
-    countOrder();
-}
-
-const renderShoppingCart = () => {
-
-}
 
 const main = async () => {
-    const post = await fetch("js/data/data.json");
+    const post = await fetch("http://127.0.0.1:5501/Eproject_Group01/js/data/data.json");
     const data = await post.json();
     renderProducts(data.products, getEle("#products"));
     productsFlashSale(data.products);
@@ -138,6 +90,5 @@ const main = async () => {
     inputSearch.addEventListener("keyup", (event) => { renderSearch(event, data.products) });
     const buttonAddCart = document.querySelectorAll(".products__add");
     buttonAddCart.forEach(item => item.addEventListener("click", (event) => { addShoppingCart(event, data.products) }));
-    countOrder();
 }
 main();

@@ -161,13 +161,13 @@ ul {
   text-decoration: none;
   color: #e11b1e;
 }
-.shopping {
+.shopping1 {
   align-items: center;
   display: flex;
   justify-content: space-between;
 }
 
-.shopping__right h5 {
+.shopping__right1 h5 {
   margin: 0;
 }
 .product {

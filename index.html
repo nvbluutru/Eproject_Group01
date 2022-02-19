@@ -32,7 +32,7 @@
                     <span></span>
                     <span></span>
                 </button>
-                <a href="/" class="header__logo">
+                <a href="./index.html" class="header__logo">
                     <img src="./images/logo/logo.svg" alt="logo smart store">
                 </a>
                 <div class="header__location header__bg">
@@ -68,16 +68,14 @@
                             </a>
                         </div>
                     </li>
-                    <li>
+                    <li id="view-cart">
                         <div class="header__shopping">
                             <i class="fa fa-shopping-cart"></i>
-                            <span class="header__shopping--count"></span>
+                            <span class="header__shopping--count">0</span>
                         </div>
                         <div class="header__information--desc">
-                            <a href="./page/order-products.html">
-                                <p class="header__distance">Giỏ</p>
-                                <p>hàng</p>
-                            </a>
+                            <p class="header__distance">Giỏ</p>
+                            <p>hàng</p>
                         </div>
                     </li>
                 </ul>
@@ -484,6 +482,21 @@
     .<div class="logo__right">
         <img src="./images/logo/tet_right.png" alt="">
     </div>
+    <div class="shopping">
+        <div class="shopping__black"></div>
+        <div class="shopping__view">
+            <div class="shopping__top">
+                <span>Giỏ Hàng</span>
+                <i class="fa fa-times" id="closeCart"></i>
+            </div>
+            <div class="shopping__body">
+                <div class="shopping__products">
+                </div>
+                <div class="shopping__total">Tổng số tiền: <span>0đ</span></div>
+                <a href="./page/order-products.html" class="shopping__payment">Thanh Toán</a>
+            </div>
+        </div>
+    </div>
     <footer class="footer">
         <div class="container__first">
             <div class="footer__content">
@@ -575,6 +588,7 @@
         crossorigin="anonymous"></script>
     <script src="./js/app.js"></script>
     <script src="./js/products.js"></script>
+    <script src="./js/shopping-cart.js"></script>
 </body>
 
 </html>

@@ -2,14 +2,6 @@ window.addEventListener("DOMContentLoaded", function () {
     const loader = document.querySelector(".lds-wrapper");
     loader.className += " active"; // class "loader hidden"
 });
-
-// let contact = document.querySelector(".contact");
-// const contactToggle = document.querySelector(".contact__toggle");
-// let toggleIcon = contactToggle.querySelector("i");
-// contactToggle.addEventListener("click", function () {
-//     toggleIcon.classList = toggleIcon.classList == "fas fa-angle-double-right" ? "fas fa-angle-double-left" : "fas fa-angle-double-right";
-//     contact.classList.toggle("active");
-// })
 let headerContent = document.querySelector(".header__content");
 $(window).scroll(() => {
     if ($("body,html").scrollTop() > 40) {
@@ -18,3 +10,19 @@ $(window).scroll(() => {
         headerContent.classList.remove("active-mobile");
     }
 })
+const getEle = (selector) => {
+    return document.querySelector(selector);
+}
+const fomatVnd = (price) => {
+    return price.toLocaleString('vi', { style: 'currency', currency: 'VND' });
+}
+const setLocalStorage = (arr) => {
+    localStorage.setItem("shopping-cart", JSON.stringify(arr));
+}
+const getLocalStorage = (name) => {
+    if (localStorage.getItem(name) && localStorage.getItem(name) != "undefined") {
+        return JSON.parse(localStorage.getItem(name));
+    } else {
+        return [];
+    }
+}

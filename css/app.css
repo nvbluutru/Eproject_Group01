@@ -466,6 +466,9 @@ body.white {
   flex-direction: column;
   gap: 10px;
 }
+#view-cart {
+  cursor: pointer;
+}
 .header__search--name {
   font-weight: 600;
   font-size: 13px;
@@ -861,6 +864,126 @@ body.white {
     flex-direction: row;
     justify-content: space-between;
   }
+}
+.shopping {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  z-index: 999;
+  color: black;
+  transform: translateX(100%);
+}
+.shopping__black {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 888;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.shopping__view {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 350px;
+  z-index: 900;
+  background-color: white;
+  padding: 10px;
+  transform: translateX(100%);
+}
+.shopping.active {
+  transform: translateX(0);
+}
+.shopping.active .shopping__view {
+  transform: translate(0);
+}
+.shopping__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.shopping__top {
+  font-size: 18px;
+  font-weight: bold;
+  border-bottom: 1px solid #000;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+.shopping__top i {
+  font-size: 30px;
+  color: #d70018;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.shopping__top i:hover {
+  transform: scale(1.2);
+}
+.shopping__item--left {
+  display: flex;
+  gap: 15px;
+}
+.shopping__item--name {
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.shopping__item--price {
+  font-weight: 600;
+  color: #e2484c;
+}
+.shopping__item--right i {
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+.shopping__item--right i:hover {
+  transform: scale(1.2);
+}
+.shopping__item--price span {
+  color: #707070;
+}
+
+.shopping__item {
+  display: flex;
+  justify-content: space-between;
+}
+.shopping__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+.shopping__item--img {
+  width: 60px;
+}
+.shopping__total {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #202020;
+}
+.shopping__total span {
+  color: #e2484c;
+}
+.shopping__payment {
+  display: block;
+  background-color: #d0b89e;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 15px;
+  transition: all 0.5s;
+}
+.shopping__payment:hover {
+  color: white;
+  background-color: #d70018;
 }
 @media screen and (max-width: 992px) {
   .container__first {
