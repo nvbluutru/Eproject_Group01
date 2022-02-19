@@ -663,6 +663,7 @@ body.white {
 }
 .banner__carousel--bottom {
   width: 100%;
+  height: 95px;
   overflow-x: auto;
   display: flex;
   white-space: nowrap;

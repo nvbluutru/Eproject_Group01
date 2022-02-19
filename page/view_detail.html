@@ -77,7 +77,7 @@
                         </div>
                     </li>
                 </ul>
-                <a href="./page/smember.html" class="header__user header__bg">
+                <a href="./smember.html" class="header__user header__bg">
                     <i class="fa fa-user-circle"></i>
                     <p>Smember</p>
                 </a>
@@ -481,9 +481,7 @@
                         <button>So Sánh Chi Tiết</button>
                     </div>
                 </div>
-
             </div>
-
         </section>
     </div>
 
@@ -539,7 +537,6 @@
                                     <p>5 đánh giá</p>
                                 </div>
                             </div>
-
                             <div class="evaluate__right__all">
                                 <div class="evaluate__right__left">
                                     <p><span>5</span> <i class="fa fa-star"></i> </p>
@@ -979,9 +976,25 @@
         integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
         crossorigin="anonymous"></script>
     <script src="../js/owl.carousel.min.js"></script>
-    <script src="../js/render.js"></script>
+    <script src="../js/Products.js"></script>
     <script src="../js/app.js"></script>
     <script src="../js/shopping-cart.js"></script>
+    <script>$('.owl-carousel').owlCarousel({
+            loop: true,
+            margin: 10,
+            nav: false,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })</script>
 </body>
 
 </html>
