@@ -130,7 +130,7 @@ const renderShoppingCart = () => {
 }
 
 const main = async () => {
-    const post = await fetch("/js/data/data.json");
+    const post = await fetch("https://nvbluutru.github.io/Eproject_Group01/js/data/data.json");
     const data = await post.json();
     renderProducts(data.products, getEle("#products"));
     productsFlashSale(data.products);
