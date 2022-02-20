@@ -1,6 +1,6 @@
 const mainShopping = async () => {
     const product = new Products;
-    const post = await fetch("http://127.0.0.1:5501/Eproject_Group01/js/data/data.json");
+    const post = await fetch("https://nvbluutru.github.io/Eproject_Group01/js/data/data.json");
     const data = await post.json();
     product.renderShoppingCart(data.products);
     product.countOrder();
