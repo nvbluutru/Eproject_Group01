@@ -5,7 +5,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cuambo",
       "price": 18850000,
       "description": "Tủ quần áo gỗ Cuambo với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cuambo-4.jpg",
       "listImage": [
@@ -56,7 +60,11 @@
       "name": "Tủ quần áo gỗ hiện đại Coaria",
       "price": 17350000,
       "description": "Tủ quần áo gỗ Coaria với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Coaria-1-600x600.jpg",
       "listImage": [
@@ -109,7 +117,11 @@
       "name": "Tủ quần áo gỗ hiện đại Crissio",
       "price": 14410000,
       "description": "Tủ quần áo gỗ hiện đại Tủ quần áo gỗ Crissio với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Crissio-1.jpg",
       "listImage": [
@@ -159,7 +171,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cuperly",
       "price": 13410000,
       "description": "Tủ quần áo gỗ Cuperly với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cuperly.jpg",
       "listImage": [
@@ -212,7 +228,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cultavio",
       "price": 12870000,
       "description": "Tủ quần áo gỗ Cultavio với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cultavio-1.jpg",
       "listImage": [
@@ -262,7 +282,11 @@
       "name": "Tủ quần áo gỗ hiện đại Casinca",
       "price": 11620000,
       "description": "Tủ quần áo gỗ Casinca với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Casinca-1.jpg",
       "listImage": [
@@ -315,7 +339,11 @@
       "name": "Tủ quần áo gỗ hiện đại Carvium",
       "price": 10660000,
       "description": "Tủ quần áo gỗ Carvium với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Carvium-1.jpg",
       "listImage": [
@@ -365,7 +393,11 @@
       "name": "Tủ quần áo gỗ hiện đại Celexes",
       "price": 9660000,
       "description": "Tủ quần áo gỗ Celexes với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Celexes-1.jpg",
       "listImage": [
@@ -415,7 +447,11 @@
       "name": "Tủ quần áo gỗ hiện đại Combinos",
       "price": 8180000,
       "description": "Tủ quần áo gỗ Combinos với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Combinos-5.jpg",
       "listImage": [
@@ -465,7 +501,11 @@
       "name": "Tủ quần áo gỗ hiện đại Claireen",
       "price": 7680000,
       "description": "Tủ quần áo gỗ Claireen với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Claireen-5.jpg",
       "listImage": [
@@ -514,7 +554,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cituma",
       "price": 4940000,
       "description": "Tủ quần áo gỗ Cituma với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cituma-5.jpg",
       "listImage": [
@@ -564,7 +608,11 @@
       "name": "Tủ quần áo gỗ hiện đại Camacy",
       "price": 3940000,
       "description": "Tủ quần áo gỗ Camacy với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Camacy-1.jpg",
       "listImage": [
@@ -615,7 +663,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cashuna",
       "price": 4900000,
       "description": "Tủ quần áo gỗ Cashuna với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cashuna-1.jpg",
       "listImage": [
@@ -663,7 +715,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cuperion",
       "price": 4640000,
       "description": "Tủ quần áo gỗ Cuperion với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cuperion-1.jpg",
       "listImage": [
@@ -715,7 +771,11 @@
       "name": "Tủ quần áo gỗ hiện đại Comissa",
       "price": 4740000,
       "description": "Tủ quần áo gỗ Comissa với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Comissa-1.jpg",
       "listImage": [
@@ -763,7 +823,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cicadu",
       "price": 4200000,
       "description": "Tủ quần áo gỗ Cicadu với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cicadu-1.jpg",
       "listImage": [
@@ -812,7 +876,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cashidy",
       "price": 2070000,
       "description": "Tủ quần áo gỗ Cashidy với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cashidy-1.jpg",
       "listImage": [
@@ -861,7 +929,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cogitem",
       "price": 1510000,
       "description": "Tủ quần áo gỗ Cogitem với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cogitem-1.jpg",
       "listImage": [
@@ -909,7 +981,11 @@
       "name": "Tủ quần áo gỗ hiện đại Crosland",
       "price": 3720000,
       "description": "Tủ quần áo gỗ Crosland với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Crosland-1.jpg",
       "listImage": [
@@ -954,7 +1030,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cromakem",
       "price": 5420000,
       "description": "Tủ quần áo gỗ Cromakem với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cromakem-1.jpg",
       "listImage": [
@@ -1003,7 +1083,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cybele",
       "price": 5940000,
       "description": "Tủ quần áo gỗ Cybele với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cybele-1.jpg",
       "listImage": [
@@ -1055,7 +1139,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cubical",
       "price": 4180000,
       "description": "Tủ quần áo gỗ Cubical với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cubical-1.jpg",
       "listImage": [
@@ -1105,7 +1193,11 @@
       "name": "Tủ quần áo gỗ hiện đại Coromandel",
       "price": 3790000,
       "description": "Tủ quần áo gỗ Coromandel với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Coromandel-1.jpg",
       "listImage": [
@@ -1154,7 +1246,11 @@
       "name": "Tủ quần áo gỗ hiện đại Crookman",
       "price": 5070000,
       "description": "Tủ quần áo gỗ Crookman với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Crookman-3.jpg",
       "listImage": [
@@ -1202,7 +1298,11 @@
       "name": "Tủ quần áo gỗ hiện đại Crimson",
       "price": 9700000,
       "description": "Tủ quần áo gỗ Crimson với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Crimson-3.jpg",
       "listImage": [
@@ -1250,7 +1350,11 @@
       "name": "Tủ quần áo gỗ hiện đại Concord",
       "price": 7850000,
       "description": "Tủ quần áo gỗ Concord với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Concord-1.jpg",
       "listImage": [
@@ -1298,7 +1402,11 @@
       "name": "Tủ quần áo gỗ hiện đại Coventry",
       "price": 5010000,
       "description": "Tủ quần áo gỗ Coventry với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Coventry-1.jpg",
       "listImage": [
@@ -1346,7 +1454,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cospower",
       "price": 5120000,
       "description": "Tủ quần áo gỗ Cospower với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cospower-1.jpg",
       "listImage": [
@@ -1395,7 +1507,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cosboard",
       "price": 4310000,
       "description": "Tủ quần áo gỗ Cosboard với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cosboard-1.jpg",
       "listImage": [
@@ -1444,7 +1560,11 @@
       "name": "Tủ quần áo gỗ hiện đại Clarian",
       "price": 4110000,
       "description": "Tủ quần áo gỗ Clarian với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Clarian-1.jpg",
       "listImage": [
@@ -1493,7 +1613,11 @@
       "name": "Tủ quần áo gỗ hiện đại Commex",
       "price": 4630000,
       "description": "Tủ quần áo gỗ Commex với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Commex-1.jpg",
       "listImage": [
@@ -1541,7 +1665,11 @@
       "name": "Tủ quần áo gỗ hiện đại Citadel",
       "price": 7270000,
       "description": "Tủ quần áo gỗ Citadel với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Citadel-1.jpg",
       "listImage": [
@@ -1588,7 +1716,11 @@
       "name": "Tủ quần áo gỗ hiện đại Clidos",
       "price": 9500000,
       "description": "Tủ quần áo gỗ Clidos với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Clidos-1.jpg",
       "listImage": [
@@ -1635,7 +1767,11 @@
       "name": "Tủ quần áo gỗ hiện đại Crozmo",
       "price": 6130000,
       "description": "Tủ quần áo gỗ Crozmo với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Crozmo-1-600x600.jpg",
       "listImage": [
@@ -1682,7 +1818,11 @@
       "name": "Tủ quần áo gỗ hiện đại Corrieo",
       "price": 6390000,
       "description": "Tủ quần áo gỗ Corrieo với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Corrieo-1-600x600.jpg",
       "listImage": [
@@ -1732,7 +1872,11 @@
       "name": "Tủ quần áo gỗ hiện đại Centreza",
       "price": 6320000,
       "description": "Tủ quần áo gỗ Centreza với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Centreza-3.jpg",
       "listImage": [
@@ -1779,7 +1923,11 @@
       "name": "Tủ quần áo gỗ hiện đại Calypco",
       "price": 9730000,
       "description": "Tủ quần áo gỗ Calypco với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Calypco-1-600x600.jpg",
       "listImage": [
@@ -1826,7 +1974,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cavty",
       "price": 5470000,
       "description": "Tủ quần áo gỗ Cavty với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cavty-1-600x600.jpg",
       "listImage": [
@@ -1873,7 +2025,11 @@
       "name": "Tủ quần áo gỗ hiện đại Chymney",
       "price": 5900000,
       "description": "Tủ quần áo gỗ Chymney với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Chymney-1-600x600.jpg",
       "listImage": [
@@ -1920,7 +2076,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cavestra",
       "price": 6570000,
       "description": "Tủ quần áo gỗ Cavestra với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cavestra-1-600x600.jpg",
       "listImage": [
@@ -1967,7 +2127,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cylat",
       "price": 5960000,
       "description": "Tủ quần áo gỗ Cylat với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cylat-1-600x600.jpg",
       "listImage": [
@@ -2014,7 +2178,11 @@
       "name": "Tủ quần áo gỗ hiện đại Curatu",
       "price": 6600000,
       "description": "Tủ quần áo gỗ Curatu với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Curatu-1-600x600.jpg",
       "listImage": [
@@ -2061,7 +2229,11 @@
       "name": "Tủ quần áo gỗ hiện đại Chirax",
       "price": 5680000,
       "description": "Tủ quần áo gỗ Chirax với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Chirax-1-600x600.jpg",
       "listImage": [
@@ -2108,7 +2280,11 @@
       "name": "Tủ quần áo gỗ hiện đại Clarinio",
       "price": 6380000,
       "description": "Tủ quần áo gỗ Clarinio với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Clarinio-1-600x600.jpg",
       "listImage": [
@@ -2155,7 +2331,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cineline",
       "price": 4070000,
       "description": "Tủ quần áo gỗ Cineline với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cineline-1.jpg",
       "listImage": [
@@ -2201,7 +2381,11 @@
       "name": "Tủ quần áo gỗ hiện đại Choski",
       "price": 8690000,
       "description": "Tủ quần áo gỗ Choski với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Choski-1-600x600.jpg",
       "listImage": [
@@ -2248,7 +2432,11 @@
       "name": "Tủ quần áo gỗ hiện đại Chamak",
       "price": 6,
       "description": "Tủ quần áo gỗ Chamak với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Chamak-1-600x600.jpg",
       "listImage": [
@@ -2295,7 +2483,11 @@
       "name": "Tủ quần áo gỗ hiện đại Centurion",
       "price": 3580000,
       "description": "Tủ quần áo gỗ Chamak với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Centurion-1-600x600.jpg",
       "listImage": [
@@ -2342,7 +2534,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cepham",
       "price": 6920000,
       "description": "Tủ quần áo gỗ Cepham với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cepham-1-600x600.jpg",
       "listImage": [
@@ -2389,7 +2585,11 @@
       "name": "Tủ quần áo gỗ hiện đại Chembond",
       "price": 5000000,
       "description": "Tủ quần áo gỗ Chembond với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Chembond-1-600x600.jpg",
       "listImage": [
@@ -2436,7 +2636,11 @@
       "name": "Tủ quần áo gỗ hiện đại Chaman",
       "price": 6120000,
       "description": "Tủ quần áo gỗ Chaman với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Chaman-1-600x600.jpg",
       "listImage": [
@@ -2483,7 +2687,11 @@
       "name": "Tủ quần áo gỗ hiện đại Celeste",
       "price": 4880000,
       "description": "Tủ quần áo gỗ Celeste với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Celeste-1-600x600.jpg",
       "listImage": [
@@ -2530,7 +2738,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cebon",
       "price": 5450000,
       "description": "Tủ quần áo gỗ Cebon với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cebon-1-600x600.jpg",
       "listImage": [
@@ -2577,7 +2789,11 @@
       "name": "Tủ quần áo gỗ hiện đại Catvision",
       "price": 3120000,
       "description": "Tủ quần áo gỗ Catvision với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Catvision-1-600x600.jpg",
       "listImage": [
@@ -2624,7 +2840,11 @@
       "name": "Tủ quần áo gỗ hiện đại Canbay",
       "price": 5600000,
       "description": "Tủ quần áo gỗ Canbay với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Canbay-1-600x600.jpg",
       "listImage": [
@@ -2671,7 +2891,11 @@
       "name": "Tủ quần áo gỗ hiện đại Castex",
       "price": 6950000,
       "description": "Tủ quần áo gỗ Castex với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Castex-1-600x600.jpg",
       "listImage": [
@@ -2718,7 +2942,11 @@
       "name": "Tủ quần áo gỗ hiện đại Canbonus",
       "price": 3130000,
       "description": "Tủ quần áo gỗ Canbonus với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Canbonus-1-600x600.jpg",
       "listImage": [
@@ -2765,7 +2993,11 @@
       "name": "Tủ quần áo gỗ hiện đại Capfin",
       "price": 3830000,
       "description": "Tủ quần áo gỗ Capfin với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Capfin-1-600x600.jpg",
       "listImage": [
@@ -2812,7 +3044,11 @@
       "name": "Tủ quần áo gỗ hiện đại Capricorn",
       "price": 830,
       "description": "Tủ quần áo gỗ Capricorn với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Capricorn-1-600x600.jpg",
       "listImage": [
@@ -2859,7 +3095,11 @@
       "name": "Tủ quần áo gỗ hiện đại Canara",
       "price": 4080000,
       "description": "Tủ quần áo gỗ Canara với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Canara-1-600x600.jpg",
       "listImage": [
@@ -2906,7 +3146,11 @@
       "name": "Tủ quần áo gỗ hiện đại Cadbury",
       "price": 3370000,
       "description": "Tủ quần áo gỗ Cadbury với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/08/Tu-quan-ao-go-hien-dai-Cadbury-1-600x600.jpeg",
       "listImage": [
@@ -2953,7 +3197,11 @@
       "name": "Tủ quần áo gỗ hiện đại Chaka",
       "price": 2180000,
       "description": "Tủ quần áo gỗ Chaka với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/07/Tu-quan-ao-go-hien-dai-Chaka-1.1-600x600.jpg",
       "listImage": [
@@ -3000,7 +3248,11 @@
       "name": "Tủ quần áo gỗ hiện đại Chappe",
       "price": 2190000,
       "description": "Tủ quần áo gỗ Chappe với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/07/Tu-quan-ao-go-hien-dai-Chappe-1.1-600x600.jpg",
       "listImage": [
@@ -3047,7 +3299,11 @@
       "name": "Tủ quần áo gỗ hiện đại Camie",
       "price": 2560000,
       "description": "Tủ quần áo gỗ Camie với phong cách đơn giản sẽ là điểm nhấn nổi bật cho phòng ngủ của bạn. Sản phẩm phù hợp với nhiều phong cách nội thất từ hiện đại cho tới cổ điển, vintage. Tủ quần áo gỗ SMLIFE được thiết kế cân đối và cực kỳ chắc chắn mang đến nhiều không gian lưu trữ quần áo và đồ dùng. Sử dụng vật liệu ván ép công nghiệp MDF chống ẩm phủ Melamine cao cấp giúp tủ quần áo SMLIFE có độ bền cao, chống trầy và chống ẩm rất tốt. SMLIFE có hàng chục mẫu tủ quần áo với thiết kế mới lạ, độc đáo chắc chắn sẽ mang đến sự ấm áp cho phòng ngủ của bạn.",
-      "color": ["red", "blue", "white", "gray"],
+      "color": [
+        { "name": "Vân Sồi", "style": "#bb9b7a" },
+        { "name": "Trắng", "style": "#fff" },
+        { "name": "Đen", "style": "#000" }
+      ],
       "promotion": 50,
       "imageThumb": "https://smlife.vn/wp-content/uploads/2021/07/Tu-quan-ao-go-hien-dai-Camie-1.1-600x600.jpg",
       "listImage": [

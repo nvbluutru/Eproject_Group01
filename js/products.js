@@ -100,6 +100,7 @@ class Products {
         getEle(".header__shopping--count").innerHTML = length;
     }
     addShoppingCart = (event, data) => {
+        console.log(data);
         const idProduct = event.target.parentElement.dataset.id;
         const findID = data.find(item => item.id == idProduct);
         const status = localStorage.getItem("shopping-cart");
@@ -172,4 +173,5 @@ class Products {
         const statusCart = getEle(".shopping");
         statusCart.classList.toggle("active");
     }
+
 }

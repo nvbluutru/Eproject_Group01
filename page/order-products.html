@@ -19,6 +19,12 @@
 </head>
 
 <body class="white">
+    <div class="lds-wrapper">
+        <div class="lds-ripple">
+            <div></div>
+            <div></div>
+        </div>
+    </div>
     <header class="header">
         <div class="container__first">
             <div class="header__content">
@@ -90,25 +96,8 @@
                 <h5>Giỏ hàng của bạn</h5>
             </div>
         </div>
-        <div class="product">
-            <div class="product__img"><img src="../images/products/iphone_13-_pro-5_4_1.jpeg" alt=""></div>
-            <div class="product__info">
-                <h3 class="product__header"> Apple MacBook Pro 13 Touch Bar M1 256GB 2020 Chính Hãng Apple Việt Nam-Bạc
-                </h3>
-                <p class="product__price">33.500.000 ₫</p>
-                <ul>- Chương trình khuyến mại: </ul>
-                <li>Mua Office Home & Student 2021 kèm Macbook chỉ còn 2,090,000 </li>
-                <li>Phần Mềm Diệt Virus, Office chính hãng chỉ từ 150k </li>
-                <br>
-                <div class="product__add">
-                    <div><a href="#">Xóa khỏi giỏ</a></div>
-                    <div class="product__button">
-                        <input class="btn btn-secondary" type="button" value="-">
-                        <input class="btn btn-secondary" type="button" value="1">
-                        <input class="btn btn-secondary" type="button" value="+">
-                    </div>
-                </div>
-            </div>
+        <div class="product__content" id="render-products">
+
         </div>
         <hr>
         <div class="form-row">
@@ -124,7 +113,7 @@
         <div class="product__voucher">
             <div>Tổng tiền: </div>
             <div class="product__voucher__right">
-                <p style="color:#e11b1e"><b>33.500.000 ₫</b></p>
+                <p style="color:#e11b1e" id="render-total"><b>33.500.000 ₫</b></p>
             </div>
         </div>
         <hr>
@@ -279,6 +268,7 @@
     <script src="../js/Products.js"></script>
     <script src="../js/app.js"></script>
     <script src="../js/shopping-cart.js"></script>
+    <script src="../js/order-product.js"></script>
 </body>
 
 </html>
